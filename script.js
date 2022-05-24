@@ -7,7 +7,7 @@ const teamMembers = [
     { Nome : 'Angela Lopez', Ruolo : 'Social Media Manager', Foto : 'img/angela-lopez-social-media-manager.jpg' },
     { Nome : 'Scott Estrada', Ruolo : 'Developer', Foto : 'img/scott-estrada-developer.jpg' },
     { Nome : 'Barbara Ramos', Ruolo : 'Graphic Designer', Foto : 'img/barbara-ramos-graphic-designer.jpg' }
-]
+] 
 
 // Una volta definita la struttura dati, prendendo come riferimento la card di esempio presente nell’html, 
 // stampare dinamicamente una card per ogni membro del team.
